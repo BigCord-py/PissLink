@@ -9,6 +9,7 @@ Make sure you have a running [lavalink](https://github.com/freyacodes/Lavalink) 
 pip install git+https://github.com/KaasToast/Pisslink.py
 ```
 
+
 # Basic example
 
 ```py
